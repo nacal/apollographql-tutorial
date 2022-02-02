@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "apollo-datasource-rest": "^3.5.1"
+  }
+}
